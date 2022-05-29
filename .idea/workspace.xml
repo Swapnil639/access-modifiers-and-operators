@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17af8ab5-fe3c-40fa-bef8-c0591a9b4939" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AlphabetVowelOrConsonant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EuclideanDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactorialExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoopNaturalNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoopPalindromeNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoopReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxAndMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MonthName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NaturalNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumToWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SingleDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpringSeason.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29khxNdDPXzOTrPHnJbPvIZyEWN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "Z:/Day2Practice"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.SingleDigit">
+    <configuration name="AlphabetVowelOrConsonant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlphabetVowelOrConsonant" />
+      <module name="Day2Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EuclideanDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EuclideanDistance" />
+      <module name="Day2Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxAndMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxAndMin" />
+      <module name="Day2Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SingleDigit" />
+      <module name="Day2Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringSeason" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpringSeason" />
+      <module name="Day2Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SingleDigit" />
+        <item itemvalue="Application.EuclideanDistance" />
+        <item itemvalue="Application.SpringSeason" />
+        <item itemvalue="Application.MaxAndMin" />
+        <item itemvalue="Application.AlphabetVowelOrConsonant" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17af8ab5-fe3c-40fa-bef8-c0591a9b4939" name="Changes" comment="" />
+      <created>1653663239434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653663239434</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
