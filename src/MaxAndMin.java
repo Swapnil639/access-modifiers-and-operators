@@ -38,5 +38,5 @@ public class MaxAndMin {
             System.out.println("Z is Minimum :"+z);
 
 
-    }
+   }
 }
