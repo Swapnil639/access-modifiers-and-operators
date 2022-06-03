@@ -18,5 +18,4 @@ public class ForLoopReverse {
         System.out.print(rev);
 
     }
-
 }
