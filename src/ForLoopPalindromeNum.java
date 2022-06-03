@@ -18,4 +18,5 @@ public class ForLoopPalindromeNum {
         else{
             System.out.println("not palindrome number" );}
     }
+
 }
