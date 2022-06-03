@@ -11,4 +11,5 @@ public class FactorialExample {
         }
         System.out.println(fact);
     }
+
 }
