@@ -27,4 +27,5 @@ public class SingleDigit {
         else
             System.out.println("Not valid");
     }
+
 }
